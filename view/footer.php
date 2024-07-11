@@ -13,10 +13,10 @@
     <div class=" grid grid-cols-4 gap-5 pl-[120px] px-10 leading-[50px]">
         <div class="text-[14px]">
             <img class="w-[200px]" src="https://bizweb.dktcdn.net/100/428/250/themes/822996/assets/footer-logo.png?1681911001649" alt="">
-            <p><b class="font-[500]">Địa chỉ</b>: 20 Nghĩa Đô - Q.Cầu Giấy - TP.Hà Nội</p>
-            <p><b class="font-[500]">Email:</b> hieu707203@gmail.com</p>
-            <p><b class="font-[500]">Điện thoại:</b> 0835 588 555</p>
-            <p><b class="font-[500]">Zalo:</b> 0835 588 555</p>
+            <p><b class="font-[500]">Địa chỉ</b>: Tòa nhà FPT Polytechnic., Cổng số 2, 13 P. Trịnh Văn Bô, Xuân Phương, Nam Từ Liêm, Hà Nội</p>
+            <p><b class="font-[500]">Email:</b> huyten26@gmail.com</p>
+            <p><b class="font-[500]">Điện thoại:</b> 0359850830</p>
+            <p><b class="font-[500]">Zalo:</b> 0359850830</p>
         </div>
         <div class="pt-[20px]">
             <p class="text-[16px] font-[600] text-[#333333] leading-[26px] mb-3">Sản phẩm</p>
