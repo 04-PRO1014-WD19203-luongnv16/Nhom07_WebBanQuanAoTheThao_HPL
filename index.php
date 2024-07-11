@@ -10,4 +10,14 @@ require_once "controller/main.php";
 require_once "controller/login.php";
 require_once "controller/product_controller.php";
 
-?>
+if(!isset($_SESSION['email'])){
+    $_SESSION['email']=[];
+}
+$act = isset($_GET['act']) ? $_GET['act'] : '/';
+    switch ($act) {
+        case "/":
+        case 'main':
+        //main();
+        break;
+    }
+?>  
