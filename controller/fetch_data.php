@@ -1,5 +1,5 @@
 <?php
-include "D:/xampp/htdocs/Nhom07_WebBanQuanAoTheThao_HPL/model/pdo.php";
+include "C:/xampp/htdocs/Nhom07_WebBanQuanAoTheThao_HPL/model/pdo.php";
 $conn = pdo_get_connection();
 
 if(isset($_POST["action"]))
